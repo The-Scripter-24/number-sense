@@ -30,6 +30,28 @@ export const invB00 = {
 }
 
 export const disA00 ={
+    '2001 + 523 - 67 =': '2457',
+    '5566 \\div 11 =': '506',
+    '\\frac{1}{4} + 1 \\frac{1}{6} = \\textrm{(improper fraction)}': '17/12',
+    '17 \\times 24 =': '408',
+    '972 - 279 =': '693',
+    '13 \\times 63 - 23 \\times 13 =': '520',
+    '314 \\div 9 = \\textrm{(mixed number)}': '34 8/9',
+    '46^2 =': '2116',
+    '3^0 + 2 \\times 5 + 4^(-1) = \\textrm{(decimal)}': '11.25',
+    '399 \\times 121 + 21 =': 48300,
+    '21 \\times \\frac{21}{23} = \\textrm{(mixed number)}': '19 4/23',
+    '.75 of 4 feet 8 inches = \\textrm{(inches)}': '42',
+    '4\\frac{2}{3}\\% = \\textrm{(fraction)}': '7/150',
+    '39 - 13 \\div 4 \\times 12 =': '0',
+    '16\\% of 75 =': '12',
+    '21 \\div 2\\frac{1}{2} = \\textrm{(mixed number)}': '8 2/5',
+    '\\textrm{(Find the sample interest on $400 at 5.4% for 6 months.)} = \\textrm{$}': '10.80',
+    '\\textrm{If 1 gram = .04oz, 36 oz} = \\textrm{(grams)}': '900',
+    '\\textrm{The LCM of 12, 24 and 18 is} =': '72',
+    '5\\frac{1}{3} \\times 3972 \\div 16 =': 1324
+    
+    
 
 }
 
