@@ -34,6 +34,26 @@ export const disA00 ={
 }
 
 export const disB00 = {
+    '2002 - 1529 + 17 =': '490',
+    '\\frac{6}{13} \\times \\frac{26}{15} \\times \\frac{5}{12} =': '1/3',
+    '11 \\times 139 =': '1529',
+    '3143 \\div 5 = \\textrm{(decimal)}': '628.6',
+    '9 \\times 42 + 18 \\times 9 =': '540',
+    '\\textrm{The negative reciprocal of} .6 \\textrm{is} =': '-5/3 \\textrm{or} -1 2/3',
+    '75 \\times .84 =': '63',
+    '\\textrm{Which is larger,} \\frac{-4}{9} \\textrm{or} \\frac{3}{-7} ?': '-3/7',
+    '812 - 218 =': '594',
+    '62 + 62 \\times 248 =': 15438,
+    '\\frac{7}{12} = \\% \\textrm{(mixed number)}': '58 1/3',
+    '63 \\times 63 =': '3969',
+    '19 \\div 2\\frac{1}{2} = \\textrm{(decimal)}': '7.6',
+    '1211 \\div 9 = \\textrm{(mixed number)}': '134 5/9',
+    '7 + 16 \\div 5 \\times 10': '39',
+    '\\textrm{The average of} 18\\textrm{,} 29 \\textrm{and} 16 \\textrm{is}': '21',
+    '\\frac{17}{2 \\times 5^3} = \\textrm{(decimal)}': '.068',
+    '\\textrm{If 1 cm = .39 in. then 3 meters} = \\textrm{(inches)}': '117',
+    '4\\frac{5}{6} \\div 3\\frac{1}{6} = \\textrm{(improper fraction)}': '29/19',
+    '64665 \\div 298 =': 216.997
 
 }
 
